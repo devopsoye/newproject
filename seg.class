@@ -1,0 +1,8 @@
+// class declaration
+class sample		
+        Public static void main(string[] args){
+            system.out.print ("This is the first programhere")
+          }
+
+
+
